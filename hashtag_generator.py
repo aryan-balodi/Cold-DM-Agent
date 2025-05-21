@@ -16,6 +16,7 @@ llm = ChatGroq(
     temperature=0.7,
     max_tokens=100,
     groq_api_key=GROQ_API_KEY,
+    
 )
 
 #Prompt template for generating hashtags
