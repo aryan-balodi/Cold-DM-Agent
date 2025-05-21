@@ -12,7 +12,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Initialize the ChatGroq model
 llm = ChatGroq(
-    model="llama3-70b-8192",
+    model="llama-3.1-8b-instant",
     temperature=0.7,
     max_tokens=100,
     groq_api_key=GROQ_API_KEY,
