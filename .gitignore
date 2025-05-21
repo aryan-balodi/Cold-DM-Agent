@@ -1,0 +1,4 @@
+.env
+colddmagent-env/
+__pycache__/
+*.pyc
