@@ -2,3 +2,8 @@
 colddmagent-env/
 __pycache__/
 *.pyc
+0x100x_posts.csv
+axrchit_posts.csv
+targets.csv
+session.json
+profiles.json
